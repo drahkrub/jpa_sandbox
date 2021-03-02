@@ -25,6 +25,8 @@ public class SomeTests {
 	}
     
     /**
+     * https://hibernate.atlassian.net/browse/HHH-14475
+     * 
      * created SQL is ok in 5.4.12.Final
      * but broken in 5.4.13.Final
      */

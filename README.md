@@ -2,6 +2,8 @@
 
 ### `@see SomeTests#selectIndicesFromTernaryRelation()`
 
+https://hibernate.atlassian.net/browse/HHH-14475
+
 Generated SQL from `select indices(p.roles) from Person p`
 
 * is ok in 5.4.12.Final:
